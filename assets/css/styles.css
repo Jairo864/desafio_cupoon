@@ -1,0 +1,38 @@
+body {
+
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+nav {
+
+    background-color: rgba(40, 167, 69, 1);
+
+
+}
+ .img-productos {
+   
+    height: 180px;
+    object-fit: cover;
+ }
+
+ span {
+    color: rgba(40, 167, 69, 1);
+ }
+
+  .prueba {
+    background-color: rgba(40, 167, 69, 1);
+ }
+
+h5 {
+   color: #212529
+}
+
+p { 
+   color: #707070;
+  
+}
+
+button {
+   color: #212529;
+}
